@@ -16,6 +16,7 @@ public class Timezone {
 		SimpleDateFormat d = new SimpleDateFormat("yyyy年MM月dd日 a HH時mm分ss秒");
 		
 		System.out.println(p[1]+"現在的時間為："+d.format(z));
+		System.out.println("AOA");
 
 	}
 
